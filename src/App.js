@@ -10,7 +10,7 @@ export default function App() {
       
         <h1>Weather App</h1>
         <footer>
-          <a href="">Github Repository Link</a>
+          <a href="https://github.com/bleep123/React-Weather-App">Github Repository Link</a>
         </footer>
         </div>
     </div>
